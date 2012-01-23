@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="">
+  <eClassifiers xsi:type="ecore:EClass" name="CSTemplateDescription ">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="template" eType="#//CSElement%20"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="containerClass " eType="#//EClass%20"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="theClass " eType="#//EClass%20"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="containerStructuralFeature "
+        eType="#//EStructuralFeature%20"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="EClass "/>
+  <eClassifiers xsi:type="ecore:EClass" name="EStructuralFeature "/>
+  <eClassifiers xsi:type="ecore:EClass" name="CSElement "/>
+</ecore:EPackage>

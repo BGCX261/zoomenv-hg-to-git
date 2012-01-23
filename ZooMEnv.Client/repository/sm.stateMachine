@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<StateMachine xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://disc.ucn.cl/stateMachine">
+  <childStates name="s1">
+    <childStates name="s3" transitions="//@childTransitions.0">
+      <childStates name="s5"/>
+    </childStates>
+    <childStates name="s4"/>
+  </childStates>
+  <childStates name="s2" transitions="//@childTransitions.0"/>
+  <childTransitions name="t1" states="//@childStates.1 //@childStates.0/@childStates.0"/>
+</StateMachine>

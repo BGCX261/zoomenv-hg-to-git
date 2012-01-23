@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ASCII"?>
+<YRoot xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="ycsml" xmi:id="_hY_soIYoEd-hGeO9X1mgoQ">
+  <children xsi:type="YNode" xmi:id="_hZA6wIYoEd-hGeO9X1mgoQ" name="a0" connections="_hZA6w4YoEd-hGeO9X1mgoQ"/>
+  <children xsi:type="YNode" xmi:id="_hZA6wYYoEd-hGeO9X1mgoQ" name="a1"/>
+  <children xsi:type="YNode" xmi:id="_hZA6woYoEd-hGeO9X1mgoQ" name="a2" connections="_hZA6w4YoEd-hGeO9X1mgoQ"/>
+  <children xsi:type="YConnection" xmi:id="_hZA6w4YoEd-hGeO9X1mgoQ" name="a3" nodes="_hZA6wIYoEd-hGeO9X1mgoQ _hZA6woYoEd-hGeO9X1mgoQ"/>
+</YRoot>

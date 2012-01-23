@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://disc.ucn.cl/ycsml" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore">
+  <CSRoot xmi:id="_tJqsgEIJEeGbN_r71gq_6A">
+    <children xsi:type="CSNode" xmi:id="_tJ1roEIJEeGbN_r71gq_6A" name="CSNode0" height="103.11394248934542" width="153.6199177477557" widthRatioToParent="1.0">
+      <children xsi:type="CSNode" xmi:id="_tJ1roUIJEeGbN_r71gq_6A" name="CSNode1" minZoom="0.8" height="36.54025022891397" width="23.010231309388107" widthRatioToParent="1.0">
+        <children xsi:type="CSNode" xmi:id="_tJ1rokIJEeGbN_r71gq_6A" name="CSNode2" layout="_CqccoEImEeGWCv1saYXeow" height="10.0" width="25.163791272761898" widthRatioToParent="1.0">
+          <foreground xmi:id="__4He8EIlEeGWCv1saYXeow" a="1.0"/>
+          <background xmi:id="__4He8UIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+          <transform xmi:id="_tJ2SskIJEeGbN_r71gq_6A" m00="1.0" m02="-11.844579798555674" m11="1.0" m12="5.922289899277837"/>
+        </children>
+        <children xsi:type="CSNode" xmi:id="_tJ2Ss0IJEeGbN_r71gq_6A" name="CSNode3" layout="_CqccoEImEeGWCv1saYXeow" height="10.0" width="25.702181263605333" widthRatioToParent="1.0">
+          <foreground xmi:id="__4He8kIlEeGWCv1saYXeow" a="1.0"/>
+          <background xmi:id="__4He80IlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+          <transform xmi:id="_tJ2StkIJEeGbN_r71gq_6A" m00="1.0" m02="-11.844579798555674" m11="1.0" m12="19.382039670363838"/>
+        </children>
+        <foreground xmi:id="__4He9EIlEeGWCv1saYXeow" a="1.0"/>
+        <background xmi:id="__4He9UIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_tJ2SuUIJEeGbN_r71gq_6A" m00="1.0" m02="101.21731827856671" m11="1.0" m12="8.075849862651596"/>
+      </children>
+      <children xsi:type="CSText" xmi:id="_tJ2SukIJEeGbN_r71gq_6A" name="CSText0" height="18.23499054023703" width="89.23220018313117" text="${self.name}">
+        <foreground xmi:id="_tJ2Su0IJEeGbN_r71gq_6A" a="1.0"/>
+        <background xmi:id="_tJ2SvEIJEeGbN_r71gq_6A" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_tJ2SvUIJEeGbN_r71gq_6A" m00="1.0" m02="40.45097689774637" m11="1.0" m12="49.53187915759639"/>
+      </children>
+      <children xsi:type="CSText" xmi:id="_tJ2SvkIJEeGbN_r71gq_6A" name="CSText1" minZoom="0.8" height="16.619820567706718" width="114.53652975277292" text="${self.stereotype}">
+        <foreground xmi:id="_tJ2Sv0IJEeGbN_r71gq_6A" a="1.0"/>
+        <background xmi:id="_tJ2SwEIJEeGbN_r71gq_6A" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_tJ2SwUIJEeGbN_r71gq_6A" m00="1.0" m02="30.362714659424608" m11="1.0" m12="75.55046041142569"/>
+      </children>
+      <children xsi:type="CSNode" xmi:id="_mgP5wEIPEeGvApheQ5kWNA" name="CSNode7" layout="_CqccoEImEeGWCv1saYXeow" maxZoom="0.8" height="20.75221617561499" width="62.14992681550173" widthRatioToParent="1.0">
+        <foreground xmi:id="__4IGAEIlEeGWCv1saYXeow" a="1.0"/>
+        <background xmi:id="__4IGAUIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_mgP5w0IPEeGvApheQ5kWNA" m00="1.0" m02="-39.57053105652086" m11="1.0" m12="27.52732595236234"/>
+      </children>
+      <children xsi:type="CSNode" xmi:id="_oJS7MEIPEeGvApheQ5kWNA" name="CSNode8" layout="_CqccoEImEeGWCv1saYXeow" maxZoom="0.8" height="20.963937557170418" width="62.14992681550177" widthRatioToParent="1.0">
+        <foreground xmi:id="__4IGAkIlEeGWCv1saYXeow" a="1.0"/>
+        <background xmi:id="__4IGA0IlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_oJTiQkIPEeGvApheQ5kWNA" m00="1.0" m02="-39.641104850372656" m11="1.0" m12="56.63396218904376"/>
+      </children>
+      <foreground xmi:id="__4IGBEIlEeGWCv1saYXeow" a="1.0"/>
+      <background xmi:id="__4IGBUIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_tJ2SxEIJEeGbN_r71gq_6A" m00="1.0" m02="-256.9300147259457" m11="1.0" m12="-156.60527142691322"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_zjswsEIJEeGbN_r71gq_6A" name="CSNode4" height="35.51958465576172" width="39.44554138183594" widthRatioToParent="1.0">
+      <children xsi:type="CSText" xmi:id="_2uyzsEIJEeGbN_r71gq_6A" name="CSText2" height="17.089967245039063" width="86.83598689801562" text="${self.name}">
+        <foreground xmi:id="_2uyzsUIJEeGbN_r71gq_6A" a="1.0"/>
+        <background xmi:id="_2uyzskIJEeGbN_r71gq_6A" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_2uyzs0IJEeGbN_r71gq_6A" m00="1.0" m02="-26.328026203968754" m11="1.0" m12="40.80844061615157"/>
+      </children>
+      <children xsi:type="CSNode" xmi:id="_7qd0wEIPEeGvApheQ5kWNA" name="CSNode9" layout="_CqccoEImEeGWCv1saYXeow" height="10.0" width="96.5590842559547" widthRatioToParent="1.0">
+        <foreground xmi:id="__4IGBkIlEeGWCv1saYXeow" a="1.0"/>
+        <background xmi:id="__4IGB0IlEeGWCv1saYXeow" a="1.0"/>
+        <transform xmi:id="_7qd0w0IPEeGvApheQ5kWNA" m00="1.0" m02="37.19788429063941" m11="1.0" m12="12.695393998017328"/>
+      </children>
+      <foreground xmi:id="__4IGCEIlEeGWCv1saYXeow" a="1.0"/>
+      <background xmi:id="__4IGCUIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <shape xmi:id="_1vDN8EIJEeGbN_r71gq_6A" name="ellipse"/>
+      <transform xmi:id="_zjsws0IJEeGbN_r71gq_6A" m00="1.0" m02="-210.62420963175" m11="1.0" m12="13.16401310198439"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_6JOTMEIJEeGbN_r71gq_6A" name="CSNode5" layout="_CqccoEImEeGWCv1saYXeow" widthRatioToParent="1.0">
+      <foreground xmi:id="__2FeoEIlEeGWCv1saYXeow" a="1.0"/>
+      <background xmi:id="__2FeoUIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_6JOTM0IJEeGbN_r71gq_6A" m00="1.0" m02="-68.88412285836299" m11="1.0" m12="160.14663052007054"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_6NRswEIJEeGbN_r71gq_6A" name="CSNode6" layout="_CqccoEImEeGWCv1saYXeow" widthRatioToParent="1.0">
+      <foreground xmi:id="__2EQgUIlEeGWCv1saYXeow" a="1.0"/>
+      <background xmi:id="__2E3kEIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_6NRsw0IJEeGbN_r71gq_6A" m00="1.0" m02="-406.90686770584466" m11="1.0" m12="160.37268567312836"/>
+    </children>
+    <children xsi:type="CSConnection" xmi:id="_7JKtQEIJEeGbN_r71gq_6A" name="CSConnection0">
+      <connectionEnds xmi:id="_7JLUUEIJEeGbN_r71gq_6A" node="_6NRswEIJEeGbN_r71gq_6A">
+        <connStructuralFeature xsi:type="ecore:EReference" href="../model/component.ecore#//Dependency/src"/>
+      </connectionEnds>
+      <connectionEnds xmi:id="_7JLUUUIJEeGbN_r71gq_6A" node="_6JOTMEIJEeGbN_r71gq_6A" tipType="1">
+        <connStructuralFeature xsi:type="ecore:EReference" href="../model/component.ecore#//Dependency/dst"/>
+      </connectionEnds>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_hwxk0EINEeGKX-IWqyAQnA" name="CSTemplateDescription0" height="25.0321149563448" width="336.154579371239" template="_tJ1roEIJEeGbN_r71gq_6A">
+      <foreground xmi:id="__40pkEIlEeGWCv1saYXeow" a="1.0"/>
+      <background xmi:id="__48lYEIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_hwyL4kINEeGKX-IWqyAQnA" m00="1.0" m02="247.24346077928936" m11="1.0" m12="-143.20972392253785"/>
+      <containerClass href="../model/component.ecore#//ComponentModel"/>
+      <theClass href="../model/component.ecore#//Component"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/component.ecore#//ComponentModel/elements"/>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_l8v2AEINEeGKX-IWqyAQnA" name="CSTemplateDescription1" height="18.790143695431002" width="322.63030830592544" template="_zjswsEIJEeGbN_r71gq_6A">
+      <foreground xmi:id="__6myQEIlEeGWCv1saYXeow" a="1.0"/>
+      <background xmi:id="__6uHAEIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_l8wdEEINEeGKX-IWqyAQnA" m00="1.0" m02="256.0551701736074" m11="1.0" m12="-49.482338799544266"/>
+      <containerClass href="../model/component.ecore#//ComponentModel"/>
+      <theClass href="../model/component.ecore#//Interface"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/component.ecore#//ComponentModel/elements"/>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_qNCmgEINEeGKX-IWqyAQnA" name="CSTemplateDescription2" height="19.830472238916627" width="370.4854213062647" template="_7JKtQEIJEeGbN_r71gq_6A">
+      <foreground xmi:id="__8PxAEIlEeGWCv1saYXeow" a="1.0"/>
+      <background xmi:id="__8WesEIlEeGWCv1saYXeow" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_qNCmg0INEeGKX-IWqyAQnA" m00="1.0" m02="272.08701292170497" m11="1.0" m12="37.64745998405596"/>
+      <containerClass href="../model/component.ecore#//ComponentModel"/>
+      <theClass href="../model/component.ecore#//Dependency"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/component.ecore#//ComponentModel/elements"/>
+    </children>
+  </CSRoot>
+  <CSLayout xmi:id="_tJ2SxUIJEeGbN_r71gq_6A"/>
+  <CSLayout xmi:id="_xUwQEEINEeGKX-IWqyAQnA"/>
+  <CSLayout xmi:id="_dCR_8EIOEeGvApheQ5kWNA"/>
+  <CSLayout xmi:id="_CqccoEImEeGWCv1saYXeow"/>
+</xmi:XMI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://disc.ucn.cl/ycsml" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore">
+  <CSRoot xmi:id="_DhAVsJzQEd-HO-Ti_DrR2A">
+    <children xsi:type="CSNode" xmi:id="_DhBj0JzQEd-HO-Ti_DrR2A" name="CSNode0" layout="_sx1KUKicEd-luvK1FAWorw" height="117.90868377685547" width="230.85671997070312" widthRatioToParent="1.0">
+      <children xsi:type="CSText" xmi:id="_DhCK4JzQEd-HO-Ti_DrR2A" name="CSText0" selectable="false" minZoom="0.5" height="20.0" width="81.943359375" horizontalAlign="0.5" verticalAlign="0.5" maxHeight="20.0" text="&lt;center>${self.name}&lt;/center>">
+        <foreground xmi:id="_DhCx8JzQEd-HO-Ti_DrR2A" a="1.0"/>
+        <background xmi:id="_DhCx8ZzQEd-HO-Ti_DrR2A" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_DhCx8pzQEd-HO-Ti_DrR2A" m00="1.0" m02="74.45668029785156" m11="1.0"/>
+      </children>
+      <children xsi:type="CSNode" xmi:id="_eE0n8KgbEd-mXd1wtDgvlw" name="CSNode5" layout="_sx1KUKicEd-luvK1FAWorw" minZoom="0.5" height="1.0" width="230.85671997070312" widthRatioToParent="1.0" minHeight="1.0" maxHeight="1.0">
+        <foreground xmi:id="_lzPnkKicEd-luvK1FAWorw" a="1.0"/>
+        <background xmi:id="_lzPnkaicEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_eE0n86gbEd-mXd1wtDgvlw" m00="1.0" m11="1.0" m12="16.97643068904057"/>
+      </children>
+      <children xsi:type="CSNode" xmi:id="__zc8YJ5wEd-ufOoSpK_hQQ" name="CSNode4" selectable="false" minZoom="0.5" height="0.0" width="0.0" widthRatioToParent="1.0">
+        <foreground xmi:id="_3qdgwKicEd-luvK1FAWorw" a="1.0"/>
+        <background xmi:id="_3qdgwaicEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <shape xmi:id="_c-MXEKgbEd-mXd1wtDgvlw" name="none"/>
+        <transform xmi:id="__zc8Y55wEd-ufOoSpK_hQQ" m00="1.0" m11="1.0"/>
+        <displayedStructuralFeatures xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childStates"/>
+      </children>
+      <children xsi:type="CSText" xmi:id="_YU8CEKDKEd-c5L02rmQLiQ" name="CSText2" selectable="false" maxZoom="0.5" height="117.90868377685547" width="230.85671997070312" horizontalAlign="0.5" verticalAlign="0.5" widthRatioToParent="1.0" text="&lt;div style=&quot;font-size:30px;text-align:center;&quot;>${self.name}&lt;/div>">
+        <foreground xmi:id="_YU8CEaDKEd-c5L02rmQLiQ" a="1.0"/>
+        <background xmi:id="_YU8CEqDKEd-c5L02rmQLiQ" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_YU8CE6DKEd-c5L02rmQLiQ" m00="1.0" m11="1.0" m12="8.973658153149863"/>
+      </children>
+      <foreground xmi:id="_eq4L0KieEd-luvK1FAWorw" a="1.0"/>
+      <background xmi:id="_eq4L0aieEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <shape xmi:id="_XKckAJ9NEd-dD-S8ckgQIw" name="rounded rectangle"/>
+      <transform xmi:id="_DhCx9ZzQEd-HO-Ti_DrR2A" m00="1.0" m02="116.63458381819444" m11="1.0" m12="97.17852806181652"/>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_DhCx9pzQEd-HO-Ti_DrR2A" name="CSTemplateDescription0" height="58.0" width="288.11328125" x="-4.0" y="-4.0" scale="0.1" template="_DhBj0JzQEd-HO-Ti_DrR2A">
+      <foreground xmi:id="_l04mUKicEd-luvK1FAWorw" a="1.0"/>
+      <background xmi:id="_l1BwQKicEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_DhCx-ZzQEd-HO-Ti_DrR2A" m00="1.0" m02="471.27491338006604" m11="1.0" m12="198.83936965046829"/>
+      <containerClass href="../model/stateMachine.ecore#//StateMachine"/>
+      <theClass href="../model/stateMachine.ecore#//State"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childStates"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_DhCx-pzQEd-HO-Ti_DrR2A" name="CSNode1" height="59.0" width="109.0" widthRatioToParent="1.0">
+      <children xsi:type="CSNode" xmi:id="_DhCx-5zQEd-HO-Ti_DrR2A" name="CSNode2" height="58.0" width="108.0" widthRatioToParent="1.0">
+        <foreground xmi:id="_lxAL4KicEd-luvK1FAWorw" a="1.0"/>
+        <background xmi:id="_lxAL4aicEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_DhCx_pzQEd-HO-Ti_DrR2A" m00="1.0" m02="2.495781359357352E-13" m11="1.0" m12="4.884981308350689E-14"/>
+      </children>
+      <foreground xmi:id="_l3Ha8KicEd-luvK1FAWorw" a="1.0"/>
+      <background xmi:id="_l3Ha8aicEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_DhCyAZzQEd-HO-Ti_DrR2A" m00="1.0" m02="33.159543338735205" m11="1.0" m12="400.6778153430504"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_DhCyApzQEd-HO-Ti_DrR2A" name="CSNode3" height="58.0" width="108.0" widthRatioToParent="1.0">
+      <foreground xmi:id="_lxAL4qicEd-luvK1FAWorw" a="1.0"/>
+      <background xmi:id="_lxAL46icEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_DhCyBZzQEd-HO-Ti_DrR2A" m00="1.0" m02="292.7128899627643" m11="1.0" m12="398.7604429230278"/>
+    </children>
+    <children xsi:type="CSConnection" xmi:id="_DhCyBpzQEd-HO-Ti_DrR2A" name="CSConnection0">
+      <children xsi:type="CSText" xmi:id="_GY7lEJzQEd-HO-Ti_DrR2A" name="CSText1" minZoom="0.5" height="21.41370391845703" width="152.7650146484375" horizontalAlign="0.5" verticalAlign="0.5" text="&lt;div style=&quot;text-align:center&quot;>${self.name}&lt;/div>">
+        <foreground xmi:id="_GY7lEZzQEd-HO-Ti_DrR2A" a="1.0"/>
+        <background xmi:id="_GY7lEpzQEd-HO-Ti_DrR2A" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_GY8MIJzQEd-HO-Ti_DrR2A" m00="1.0" m02="-76.28125" m11="1.0" m12="-8.4567232131958"/>
+      </children>
+      <children xsi:type="CSText" xmi:id="_pReXIKfaEd-an94tc0_cbw" name="CSText3" maxZoom="0.5" width="152.7650146484375" horizontalAlign="0.5" verticalAlign="0.5" text="&lt;div style=&quot;font-size:30px&quot;>${self.name}&lt;/div>">
+        <foreground xmi:id="_pReXIafaEd-an94tc0_cbw" a="1.0"/>
+        <background xmi:id="_pReXIqfaEd-an94tc0_cbw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_pReXI6faEd-an94tc0_cbw" m00="1.0" m02="-76.28125" m11="1.0" m12="-1.1635751724243164"/>
+      </children>
+      <connectionEnds xmi:id="_DhDZAJzQEd-HO-Ti_DrR2A" node="_DhCx-5zQEd-HO-Ti_DrR2A">
+        <connStructuralFeature xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//Transition/states"/>
+      </connectionEnds>
+      <connectionEnds xmi:id="_DhDZAZzQEd-HO-Ti_DrR2A" node="_DhCyApzQEd-HO-Ti_DrR2A" tipType="1">
+        <connStructuralFeature xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//Transition/states"/>
+      </connectionEnds>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_Z-eoUJzQEd-HO-Ti_DrR2A" name="CSTemplateDescription1" height="58.0" width="380.755859375" x="-4.0" y="-4.0" template="_DhCyBpzQEd-HO-Ti_DrR2A">
+      <foreground xmi:id="_l4J8wKicEd-luvK1FAWorw" a="1.0"/>
+      <background xmi:id="_l4TtwKicEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_Z-fPYpzQEd-HO-Ti_DrR2A" m00="1.0" m02="473.8238288894345" m11="1.0" m12="392.5194839023464"/>
+      <containerClass href="../model/stateMachine.ecore#//StateMachine"/>
+      <theClass href="../model/stateMachine.ecore#//Transition"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childTransitions"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_TzpX0KiDEd-stb_GEwMbiQ" name="CSNode6" layout="_sx1KUKicEd-luvK1FAWorw" height="30.0" width="30.0" widthRatioToParent="1.0" minHeight="30.0" maxHeight="30.0" minWidth="30.0" maxWidth="30.0">
+      <foreground xmi:id="_l74mMKicEd-luvK1FAWorw" a="1.0"/>
+      <background xmi:id="_l74mMaicEd-luvK1FAWorw" a="1.0"/>
+      <shape xmi:id="_hjaTcKiDEd-stb_GEwMbiQ" name="ellipse"/>
+      <transform xmi:id="_TzpX06iDEd-stb_GEwMbiQ" m00="1.0" m02="208.41507006383725" m11="1.0" m12="560.284668872913"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_7NE1QKiDEd-stb_GEwMbiQ" name="CSNode7" layout="_sx1KUKicEd-luvK1FAWorw" height="30.0" width="30.0" widthRatioToParent="1.0" minHeight="30.0" maxHeight="30.0" minWidth="30.0" maxWidth="30.0">
+      <children xsi:type="CSNode" xmi:id="_8I-c0KiDEd-stb_GEwMbiQ" name="CSNode8" selectable="false" layout="_sx1KUKicEd-luvK1FAWorw" height="20.0" width="20.0" horizontalAlign="0.5" verticalAlign="0.5" widthRatioToParent="1.0" minHeight="20.0" maxHeight="20.0" minWidth="20.0" maxWidth="20.0">
+        <foreground xmi:id="_l74mMqicEd-luvK1FAWorw" a="1.0"/>
+        <background xmi:id="_l74mM6icEd-luvK1FAWorw" a="1.0"/>
+        <shape xmi:id="_-FGLQKiDEd-stb_GEwMbiQ" name="ellipse"/>
+        <transform xmi:id="_8I-c06iDEd-stb_GEwMbiQ" m00="1.0" m02="-1.3533446108041378" m11="1.0"/>
+      </children>
+      <foreground xmi:id="_l74mNKicEd-luvK1FAWorw" a="1.0"/>
+      <background xmi:id="_l74mNaicEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <shape xmi:id="_CiwpYKiEEd-stb_GEwMbiQ" name="ellipse"/>
+      <transform xmi:id="_7NE1Q6iDEd-stb_GEwMbiQ" m00="1.0" m02="209.81331870178892" m11="1.0" m12="625.9975204336986"/>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_VVfdsKiGEd-844QVoG8nsg" name="CSTemplateDescription2" height="35.61408946417327" width="353.19202543055036" template="_TzpX0KiDEd-stb_GEwMbiQ">
+      <foreground xmi:id="_l8x-EKicEd-luvK1FAWorw" a="1.0"/>
+      <background xmi:id="_l87IAKicEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_VVfds6iGEd-844QVoG8nsg" m00="1.0" m02="466.1035013607859" m11="1.0" m12="543.7874182542502"/>
+      <containerClass href="../model/stateMachine.ecore#//StateMachine"/>
+      <theClass href="../model/stateMachine.ecore#//InitialState"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childStates"/>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_ZwUDMKiGEd-844QVoG8nsg" name="CSTemplateDescription3" height="32.73690735700793" width="344.5604791090543" template="_7NE1QKiDEd-stb_GEwMbiQ">
+      <foreground xmi:id="_l_nPoKicEd-luvK1FAWorw" a="1.0"/>
+      <background xmi:id="_l_6KkKicEd-luvK1FAWorw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_ZwUDM6iGEd-844QVoG8nsg" m00="1.0" m02="428.7001339676364" m11="1.0" m12="612.8397888262185"/>
+      <containerClass href="../model/stateMachine.ecore#//StateMachine"/>
+      <theClass href="../model/stateMachine.ecore#//FinalState"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childStates"/>
+    </children>
+  </CSRoot>
+  <CSLayout xmi:id="_DhDZApzQEd-HO-Ti_DrR2A"/>
+  <CSLayout xmi:id="_hy_9UJ5sEd-EB6qyvfT-mw"/>
+  <CSLayout xmi:id="_JeNKcJ5xEd-ufOoSpK_hQQ"/>
+  <CSLayout xmi:id="_WZD6gJ51Ed-BxYu_Lgy13g"/>
+  <CSLayout xmi:id="_pcigkJ53Ed-VvJ36bCXHFQ"/>
+  <CSLayout xmi:id="_YnuaUJ9NEd-dD-S8ckgQIw"/>
+  <CSLayout xmi:id="_UIJZ4KC8Ed-LX9kigRY9lg"/>
+  <CSLayout xmi:id="_nFlL4KDKEd-c5L02rmQLiQ"/>
+  <CSLayout xmi:id="_z-0vMKDKEd-cw7ZNHPFVFw"/>
+  <CSLayout xmi:id="_LEN9cKDLEd-HfKmF155lzA"/>
+  <CSLayout xmi:id="_UwRzEKDLEd-NOp98XFNdMA"/>
+  <CSLayout xmi:id="_vTB5AKDLEd-Aw57r-SNMgw"/>
+  <CSLayout xmi:id="_gs0OcKfaEd-an94tc0_cbw"/>
+  <CSLayout xmi:id="_FWf3kKgcEd-mXd1wtDgvlw"/>
+  <CSLayout xmi:id="_bHwkcKgcEd-XpMtvMlbyyw"/>
+  <CSLayout xmi:id="_jjvXAKiEEd-stb_GEwMbiQ"/>
+  <CSLayout xmi:id="_pVDjcKiGEd-844QVoG8nsg"/>
+  <CSLayout xmi:id="_YtmoAKiREd-qEsOM1oCEgw"/>
+  <CSLayout xmi:id="_x5934KiTEd-DnaT3fjn1HQ"/>
+  <CSLayout xmi:id="_AIFp0KicEd-J8o9T43MMuQ"/>
+  <CSLayout xmi:id="_sx1KUKicEd-luvK1FAWorw"/>
+</xmi:XMI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ASCII"?>
+<YRoot xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="ycsml" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmi:id="_t4mm8JdKEd-0odOY14LZUw">
+  <children xsi:type="YNode" xmi:id="_t4qRUpdKEd-0odOY14LZUw" name="YNode1">
+    <foreground xmi:id="_7-DHIJy6Ed-cHoTwxgUZ3g" a="1.0"/>
+    <background xmi:id="_7-DHIZy6Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+    <transform xmi:id="_t4qRU5dKEd-0odOY14LZUw" m00="1.0" m02="319.81840247642884" m11="1.0" m12="285.89043186707016"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_t4qRVJdKEd-0odOY14LZUw" name="YNode2">
+    <foreground xmi:id="_7-CgEJy6Ed-cHoTwxgUZ3g" a="1.0"/>
+    <background xmi:id="_7-CgEZy6Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+    <transform xmi:id="_t4qRVZdKEd-0odOY14LZUw" m00="1.0" m02="46.1384371706005" m11="1.0" m12="276.2456060636868"/>
+  </children>
+  <children xsi:type="YConnection" xmi:id="_t4qRVpdKEd-0odOY14LZUw" name="YConnection0">
+    <children xsi:type="YText" xmi:id="_RqNCEJm8Ed-OdJipLau6jA" name="YText1" height="15.0" width="81.943359375" x="-74.12947299477122" y="22.431712501125304" text="${self.name}">
+      <background xmi:id="_JACiYJvtEd-lZ5Cql7Daiw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_RqNpIJm8Ed-OdJipLau6jA" m00="1.0" m02="-13.227834439310811" m11="1.0" m12="-30.424019210414855"/>
+    </children>
+    <background xmi:id="_5EVTopvsEd-lZ5Cql7Daiw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+    <connectionEnds xmi:id="_t4qRV5dKEd-0odOY14LZUw" node="_t4qRVJdKEd-0odOY14LZUw">
+      <connStructuralFeature xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EStructuralFeature/eContainingClass"/>
+    </connectionEnds>
+    <connectionEnds xmi:id="_t4qRWJdKEd-0odOY14LZUw" tipType="1" node="_t4qRUpdKEd-0odOY14LZUw">
+      <connStructuralFeature xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//ETypedElement/eType"/>
+    </connectionEnds>
+  </children>
+  <children xsi:type="YTemplateDescription" xmi:id="_t4qRWZdKEd-0odOY14LZUw" name="YTemplateDescription0" height="36.586883300936144" width="278.06314420576354" template="_AqkgoJy7Ed-cHoTwxgUZ3g">
+    <foreground xmi:id="_8Ce7MJy6Ed-cHoTwxgUZ3g" a="1.0"/>
+    <background xmi:id="_8CoFIJy6Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+    <transform xmi:id="_t4qRWpdKEd-0odOY14LZUw" m00="1.0" m02="451.0465536327138" m11="1.0" m12="18.380092691350878"/>
+    <containerClass href="http://www.eclipse.org/emf/2002/Ecore#//EPackage"/>
+    <theClass href="http://www.eclipse.org/emf/2002/Ecore#//EClass"/>
+    <containerStructuralFeature xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EPackage/eClassifiers"/>
+  </children>
+  <children xsi:type="YTemplateDescription" xmi:id="_t4qRW5dKEd-0odOY14LZUw" name="YTemplateDescription1" width="373.685546875" template="_t4qRVpdKEd-0odOY14LZUw">
+    <foreground xmi:id="_8Ebb8Jy6Ed-cHoTwxgUZ3g" a="1.0"/>
+    <background xmi:id="_8E1EkJy6Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+    <transform xmi:id="_t4qRXJdKEd-0odOY14LZUw" m00="1.0" m02="448.9267718831451" m11="1.0" m12="276.1600052891857"/>
+    <containerClass href="http://www.eclipse.org/emf/2002/Ecore#//EClass"/>
+    <theClass href="http://www.eclipse.org/emf/2002/Ecore#//EReference"/>
+    <containerStructuralFeature xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EClass/eStructuralFeatures"/>
+  </children>
+  <children xsi:type="YText" xmi:id="_THtSAJtVEd-yW7H6hp8pIA" name="YText2" height="15.0" width="81.943359375" text="${self.name}">
+    <background xmi:id="_5EkkMJvsEd-lZ5Cql7Daiw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+    <transform xmi:id="_THtSAZtVEd-yW7H6hp8pIA" m00="1.0" m02="44.028613236823524" m11="1.0" m12="143.37522771991246"/>
+  </children>
+  <children xsi:type="YTemplateDescription" xmi:id="_roNMUJtVEd-yW7H6hp8pIA" name="YTemplateDescription2" width="324.2734375" template="_THtSAJtVEd-yW7H6hp8pIA">
+    <foreground xmi:id="_8H5msJy6Ed-cHoTwxgUZ3g" a="1.0"/>
+    <background xmi:id="_8II3QJy6Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+    <transform xmi:id="_roNMUZtVEd-yW7H6hp8pIA" m00="1.0" m02="410.2211069736839" m11="1.0" m12="115.46862871290033"/>
+    <containerClass href="http://www.eclipse.org/emf/2002/Ecore#//EClass"/>
+    <theClass href="http://www.eclipse.org/emf/2002/Ecore#//EAttribute"/>
+    <containerStructuralFeature xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EClass/eStructuralFeatures"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_AqkgoJy7Ed-cHoTwxgUZ3g" name="YNode0" height="155.93843862011417" width="111.48730057326541" widthRatioToParent="1.0">
+    <children xsi:type="YText" xmi:id="_BeJSoJy7Ed-cHoTwxgUZ3g" name="YText0" height="15.0" width="81.943359375" text="${self.name}">
+      <foreground xmi:id="_BeJSoZy7Ed-cHoTwxgUZ3g" a="1.0"/>
+      <background xmi:id="_BeJSopy7Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_BeJSo5y7Ed-cHoTwxgUZ3g" m00="1.0" m11="1.0"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_BlPZIJy7Ed-cHoTwxgUZ3g" name="YNode3" selectable="false" height="34.0" width="111.48730057326541" y="15.0" widthRatioToParent="1.0">
+      <foreground xmi:id="_B8IPIJy7Ed-cHoTwxgUZ3g" a="1.0"/>
+      <background xmi:id="_B8IPIZy7Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_BlPZI5y7Ed-cHoTwxgUZ3g" m00="1.0" m11="1.0"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_BrkqoJy7Ed-cHoTwxgUZ3g" name="YNode4" selectable="false" height="105.93843862011417" width="111.48730057326541" y="49.0" widthRatioToParent="1.0">
+      <foreground xmi:id="_B9p5IJy7Ed-cHoTwxgUZ3g" a="1.0"/>
+      <background xmi:id="_B9p5IZy7Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_Brkqo5y7Ed-cHoTwxgUZ3g" m00="1.0" m11="1.0"/>
+    </children>
+    <foreground xmi:id="_JUBCspy7Ed-cHoTwxgUZ3g" a="1.0"/>
+    <background xmi:id="_JUBCs5y7Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+    <transform xmi:id="_Aqkgo5y7Ed-cHoTwxgUZ3g" m00="1.0" m02="61.26560305741553" m11="1.0" m12="-86.79293766467183"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_S1A30Jy7Ed-cHoTwxgUZ3g" name="YNode5" height="170.7107065493902" width="301.9160909553438" widthRatioToParent="1.0">
+    <children xsi:type="YNode" xmi:id="_UDbywJy7Ed-cHoTwxgUZ3g" name="YNode6" width="132.92110178619734">
+      <children xsi:type="YText" xmi:id="_mOyI4Jy7Ed-cHoTwxgUZ3g" name="YText3" height="15.0" width="81.943359375" text="${self.name}">
+        <foreground xmi:id="_mOyI4Zy7Ed-cHoTwxgUZ3g" a="1.0"/>
+        <background xmi:id="_mOyI4py7Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_mOyI45y7Ed-cHoTwxgUZ3g" m00="1.0" m11="1.0"/>
+      </children>
+      <foreground xmi:id="_lSb1YJy7Ed-cHoTwxgUZ3g" a="1.0"/>
+      <background xmi:id="_lSb1YZy7Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_UDbyw5y7Ed-cHoTwxgUZ3g" m00="1.0" m11="1.0"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_UKmxwJy7Ed-cHoTwxgUZ3g" name="YNode7" selectable="false" height="119.71070654939021" width="301.9160909553438" y="50.0" widthRatioToParent="1.0">
+      <foreground xmi:id="_lR-iYpy7Ed-cHoTwxgUZ3g" a="1.0"/>
+      <background xmi:id="_lR-iY5y7Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_UKmxw5y7Ed-cHoTwxgUZ3g" m00="1.0" m11="1.0"/>
+    </children>
+    <foreground xmi:id="_lhdv4py7Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0"/>
+    <background xmi:id="_lhdv45y7Ed-cHoTwxgUZ3g" r="1.0" g="1.0" b="1.0"/>
+    <transform xmi:id="_S1A305y7Ed-cHoTwxgUZ3g" m00="1.0" m02="17.55792095263912" m11="1.0" m12="447.7269842922825"/>
+  </children>
+</YRoot>

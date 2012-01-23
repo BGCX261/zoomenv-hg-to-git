@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="ycsml" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore">
+  <YRoot xmi:id="_T0BlUJ9OEd-C9IZnTxndCA">
+    <children xsi:type="YNode" xmi:id="_T0Hr8J9OEd-C9IZnTxndCA" name="YNode0" templateRoot="true" layout="_WVVrgJ9OEd-C9IZnTxndCA" height="107.7733154296875" width="203.1951141357422" x="-0.5" y="-0.5" widthRatioToParent="1.0">
+      <children xsi:type="YText" xmi:id="_T0ITAJ9OEd-C9IZnTxndCA" name="YText0" height="15.0" width="13.88671875" x="-0.5" y="-0.5" text="s1">
+        <foreground xmi:id="_T0ITAZ9OEd-C9IZnTxndCA" a="1.0"/>
+        <background xmi:id="_T0ITAp9OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_T0ITA59OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+        <object href="../repository/sm.stateMachine#//@childStates.0"/>
+      </children>
+      <children xsi:type="YNode" xmi:id="_T0ITBJ9OEd-C9IZnTxndCA" name="YNode4" selectable="false" height="92.7733154296875" width="203.1951141357422" x="-0.5" y="14.5" widthRatioToParent="1.0">
+        <children xsi:type="YNode" xmi:id="_T2K6YJ9OEd-C9IZnTxndCA" name="YNode0" templateRoot="true" layout="_WVVrgJ9OEd-C9IZnTxndCA" height="107.7733154296875" width="203.1951141357422" x="-0.5" y="-0.5" widthRatioToParent="1.0">
+          <children xsi:type="YText" xmi:id="_T2K6YZ9OEd-C9IZnTxndCA" name="YText0" height="15.0" width="13.88671875" x="-0.5" y="-0.5" text="s3">
+            <foreground xmi:id="_T2K6Yp9OEd-C9IZnTxndCA" a="1.0"/>
+            <background xmi:id="_T2K6Y59OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+            <transform xmi:id="_T2K6ZJ9OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+            <object href="../repository/sm.stateMachine#//@childStates.0/@childStates.0"/>
+          </children>
+          <children xsi:type="YNode" xmi:id="_T2K6ZZ9OEd-C9IZnTxndCA" name="YNode4" selectable="false" height="92.77331542968795" width="203.1951141357422" x="-0.5" y="14.5" widthRatioToParent="1.0">
+            <children xsi:type="YNode" xmi:id="_T3IjsJ9OEd-C9IZnTxndCA" name="YNode0" templateRoot="true" layout="_WVVrgJ9OEd-C9IZnTxndCA" height="107.7733154296875" width="203.1951141357422" x="-0.5" y="-0.5" widthRatioToParent="1.0">
+              <children xsi:type="YText" xmi:id="_T3IjsZ9OEd-C9IZnTxndCA" name="YText0" height="15.0" width="13.88671875" x="-0.5" y="-0.5" text="s5">
+                <foreground xmi:id="_T3Ijsp9OEd-C9IZnTxndCA" a="1.0"/>
+                <background xmi:id="_T3Ijs59OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                <transform xmi:id="_T3IjtJ9OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+                <object href="../repository/sm.stateMachine#//@childStates.0/@childStates.0/@childStates.0"/>
+              </children>
+              <children xsi:type="YNode" xmi:id="_T3IjtZ9OEd-C9IZnTxndCA" name="YNode4" selectable="false" height="91.77331915995546" width="202.19510925810573" x="-0.5" y="-0.5" widthRatioToParent="1.0">
+                <foreground xmi:id="_T3Ijtp9OEd-C9IZnTxndCA" a="1.0"/>
+                <background xmi:id="_T3Ijt59OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                <shape xmi:id="_T3IjuJ9OEd-C9IZnTxndCA" name="none"/>
+                <transform xmi:id="_T3IjuZ9OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+                <object href="../repository/sm.stateMachine#//@childStates.0/@childStates.0/@childStates.0"/>
+                <displayedStructuralFeatures xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childStates"/>
+              </children>
+              <foreground xmi:id="_T4X50J9OEd-C9IZnTxndCA" a="1.0"/>
+              <background xmi:id="_T4X50Z9OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <shape xmi:id="_T3JKwJ9OEd-C9IZnTxndCA" name="rounded rectangle"/>
+              <transform xmi:id="_T3hlQJ9OEd-C9IZnTxndCA" m00="0.1" m11="0.1"/>
+              <object href="../repository/sm.stateMachine#//@childStates.0/@childStates.0/@childStates.0"/>
+            </children>
+            <foreground xmi:id="_U4YlUp9OEd-C9IZnTxndCA" a="1.0"/>
+            <background xmi:id="_U4YlU59OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+            <shape xmi:id="_T2K6aJ9OEd-C9IZnTxndCA" name="none"/>
+            <transform xmi:id="_T2K6aZ9OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+            <object href="../repository/sm.stateMachine#//@childStates.0/@childStates.0"/>
+            <displayedStructuralFeatures xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childStates"/>
+          </children>
+          <foreground xmi:id="_U7Xn4J9OEd-C9IZnTxndCA" a="1.0"/>
+          <background xmi:id="_U7Xn4Z9OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+          <shape xmi:id="_T2K6bJ9OEd-C9IZnTxndCA" name="rounded rectangle"/>
+          <transform xmi:id="_T2S2MJ9OEd-C9IZnTxndCA" m00="0.1" m02="41.305236316118076" m11="0.1" m12="60.625427496237805"/>
+          <object href="../repository/sm.stateMachine#//@childStates.0/@childStates.0"/>
+        </children>
+        <children xsi:type="YNode" xmi:id="_T2fDcJ9OEd-C9IZnTxndCA" name="YNode0" templateRoot="true" layout="_WVVrgJ9OEd-C9IZnTxndCA" height="107.7733154296875" width="203.1951141357422" x="-0.5" y="-0.5" widthRatioToParent="1.0">
+          <children xsi:type="YText" xmi:id="_T2fDcZ9OEd-C9IZnTxndCA" name="YText0" height="15.0" width="13.88671875" x="-0.5" y="-0.5" text="s4">
+            <foreground xmi:id="_T2fDcp9OEd-C9IZnTxndCA" a="1.0"/>
+            <background xmi:id="_T2fDc59OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+            <transform xmi:id="_T2fDdJ9OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+            <object href="../repository/sm.stateMachine#//@childStates.0/@childStates.1"/>
+          </children>
+          <children xsi:type="YNode" xmi:id="_T2fDdZ9OEd-C9IZnTxndCA" name="YNode4" selectable="false" height="92.77331542968795" width="203.1951141357422" x="-0.5" y="14.5" widthRatioToParent="1.0">
+            <foreground xmi:id="_UemMUJ9OEd-C9IZnTxndCA" a="1.0"/>
+            <background xmi:id="_UemMUZ9OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+            <shape xmi:id="_T2fDeJ9OEd-C9IZnTxndCA" name="none"/>
+            <transform xmi:id="_T2fDeZ9OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+            <object href="../repository/sm.stateMachine#//@childStates.0/@childStates.1"/>
+            <displayedStructuralFeatures xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childStates"/>
+          </children>
+          <foreground xmi:id="_VMJO0J9OEd-C9IZnTxndCA" a="1.0"/>
+          <background xmi:id="_VMJO0Z9OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+          <shape xmi:id="_T2fDfJ9OEd-C9IZnTxndCA" name="rounded rectangle"/>
+          <transform xmi:id="_T2ts8J9OEd-C9IZnTxndCA" m00="0.1" m02="118.80070300152205" m11="0.1" m12="57.0739718384904"/>
+          <object href="../repository/sm.stateMachine#//@childStates.0/@childStates.1"/>
+        </children>
+        <foreground xmi:id="_U4xm4Z9OEd-C9IZnTxndCA" a="1.0"/>
+        <background xmi:id="_U4xm4p9OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <shape xmi:id="_T0ITB59OEd-C9IZnTxndCA" name="none"/>
+        <transform xmi:id="_T0ITCJ9OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+        <object href="../repository/sm.stateMachine#//@childStates.0"/>
+        <displayedStructuralFeatures xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childStates"/>
+      </children>
+      <foreground xmi:id="_VCdHUJ9OEd-C9IZnTxndCA" a="1.0"/>
+      <background xmi:id="_VCdHUZ9OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <shape xmi:id="_T0ITC59OEd-C9IZnTxndCA" name="rounded rectangle"/>
+      <transform xmi:id="_T0ZYwJ9OEd-C9IZnTxndCA" m00="1.0" m02="139.95282192688276" m11="1.0" m12="586.8788147967716"/>
+      <object href="../repository/sm.stateMachine#//@childStates.0"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_T2x-YJ9OEd-C9IZnTxndCA" name="YNode0" templateRoot="true" layout="_WVVrgJ9OEd-C9IZnTxndCA" height="107.7733154296875" width="203.1951141357422" x="-0.5" y="-0.5" widthRatioToParent="1.0">
+      <children xsi:type="YText" xmi:id="_T2x-YZ9OEd-C9IZnTxndCA" name="YText0" height="15.0" width="13.88671875" x="-0.5" y="-0.5" text="s2">
+        <foreground xmi:id="_T2x-Yp9OEd-C9IZnTxndCA" a="1.0"/>
+        <background xmi:id="_T2x-Y59OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_T2x-ZJ9OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+        <object href="../repository/sm.stateMachine#//@childStates.1"/>
+      </children>
+      <children xsi:type="YNode" xmi:id="_T2x-ZZ9OEd-C9IZnTxndCA" name="YNode4" selectable="false" height="92.7733154296875" width="203.1951141357422" x="-0.5" y="14.5" widthRatioToParent="1.0">
+        <foreground xmi:id="_UGt30J9OEd-C9IZnTxndCA" a="1.0"/>
+        <background xmi:id="_UGt30Z9OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <shape xmi:id="_T2x-aJ9OEd-C9IZnTxndCA" name="none"/>
+        <transform xmi:id="_T2x-aZ9OEd-C9IZnTxndCA" m00="1.0" m11="1.0"/>
+        <object href="../repository/sm.stateMachine#//@childStates.1"/>
+        <displayedStructuralFeatures xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//StateMachine/childStates"/>
+      </children>
+      <foreground xmi:id="_UJHEgJ9OEd-C9IZnTxndCA" a="1.0"/>
+      <background xmi:id="_UJHEgZ9OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <shape xmi:id="_T2x-bJ9OEd-C9IZnTxndCA" name="rounded rectangle"/>
+      <transform xmi:id="_T25TIJ9OEd-C9IZnTxndCA" m00="1.0" m02="442.88577154308604" m11="1.0" m12="356.7134268537072"/>
+      <object href="../repository/sm.stateMachine#//@childStates.1"/>
+    </children>
+    <children xsi:type="YConnection" xmi:id="_T3_fUJ9OEd-C9IZnTxndCA" name="YConnection0" templateRoot="true">
+      <children xsi:type="YText" xmi:id="_T3_fUZ9OEd-C9IZnTxndCA" name="YText1" height="15.0" width="12.33984375" text="t1">
+        <foreground xmi:id="_T3_fUp9OEd-C9IZnTxndCA" a="1.0"/>
+        <background xmi:id="_T3_fU59OEd-C9IZnTxndCA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_T3_fVJ9OEd-C9IZnTxndCA" m00="1.0" m02="-40.978220167659416" m11="1.0"/>
+        <object href="../repository/sm.stateMachine#//@childTransitions.0"/>
+      </children>
+      <object href="../repository/sm.stateMachine#//@childTransitions.0"/>
+      <connectionEnds xmi:id="_T3_fVZ9OEd-C9IZnTxndCA" node="_T2x-YJ9OEd-C9IZnTxndCA">
+        <connStructuralFeature xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//Transition/states"/>
+      </connectionEnds>
+      <connectionEnds xmi:id="_T3_fVp9OEd-C9IZnTxndCA" tipType="1" node="_T2K6YJ9OEd-C9IZnTxndCA">
+        <connStructuralFeature xsi:type="ecore:EReference" href="../model/stateMachine.ecore#//Transition/states"/>
+      </connectionEnds>
+    </children>
+  </YRoot>
+  <YLayout xmi:id="_WVVrgJ9OEd-C9IZnTxndCA"/>
+</xmi:XMI>

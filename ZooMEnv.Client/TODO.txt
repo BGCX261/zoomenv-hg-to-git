@@ -1,0 +1,31 @@
+- Creating a CS from scratch does not save correctly
+- When changing layout of a YElement, it gets into an infinite loop updating the model (solved?)
+- Setting width or height to 0 makes the canvas to disappear when using ListLayout
+
+
+x Center alone nodes in YMatrixLayout 
+x ZUI attributes in CS model
+
+- Support for deleting EObjects in the YModelEditor
+
+////////////////////////////////////////
+Connections seem to be working in the model editor
+- Tested using a EReference bw two EClasses
+
+It remains to be tested in two situations:
+- An association EObject that is not a child of one of the associated nodes
+- YConnectionEnds referencing structural features from connected nodes rather than from the association EObject itself
+
+
+******
+
+Improvements:
+Visualization should be fine-grained-related to model:
+- It should be able to visualize any model element
+   * Visualize the node that represents that model element
+   * Visualize all of the connections and other nodes that are related to that element
+   * Update visualizations of the node or its connections and connected nodes whenever the state of the model element changes
+- Attribute-wise binding notifications
+
+
+

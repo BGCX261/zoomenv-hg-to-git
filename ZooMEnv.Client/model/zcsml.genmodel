@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/ZooME/src"
+    modelPluginID="ZooME" modelName="Zcsml" importerID="org.eclipse.emf.importer.ecore"
+    complianceLevel="6.0" copyrightFields="false" usedGenPackages="platform:/plugin/org.eclipse.emf.ecore/model/Ecore.genmodel#//ecore">
+  <foreignModel>zcsml.ecore</foreignModel>
+  <genPackages prefix="CS" basePackage="cl.ucn.disc.zoome" disposableProviderFactory="true"
+      ecorePackage="zcsml.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="zcsml.ecore#//CSOrientation">
+      <genEnumLiterals ecoreEnumLiteral="zcsml.ecore#//CSOrientation/VERTICAL"/>
+      <genEnumLiterals ecoreEnumLiteral="zcsml.ecore#//CSOrientation/HORIZONTAL"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="zcsml.ecore#//CSFitType">
+      <genEnumLiterals ecoreEnumLiteral="zcsml.ecore#//CSFitType/AUTO_EXPAND"/>
+      <genEnumLiterals ecoreEnumLiteral="zcsml.ecore#//CSFitType/FIT_TO_CHILDREN"/>
+    </genEnums>
+    <genClasses ecoreClass="zcsml.ecore#//CSRoot"/>
+    <genClasses ecoreClass="zcsml.ecore#//CSElement">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSElement/selectable"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/stroke"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/children"/>
+      <genFeatures property="None" notify="false" createChild="false" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/parent"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSElement/draggable"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSElement/resizable"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/foreground"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/background"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSElement/templateRoot"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/shape"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/transform"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/object"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/displayedStructuralFeatures"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSElement/layout"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSElement/minZoom"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSElement/maxZoom"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSNode">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSNode/connections"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/height"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/width"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/x"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/y"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/horizontalAlign"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/verticalAlign"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/widthRatioToParent"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/heightRatioToParent"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/minHeight"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/maxHeight"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/minWidth"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSNode/maxWidth"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSConnection">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSConnection/connectionEnds"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSText">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSText/text"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSStroke">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSStroke/width"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSStroke/join"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSStroke/cap"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSStroke/miterlimit"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSStroke/dash"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSStroke/dash_phase"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSColor">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSColor/r"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSColor/g"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSColor/b"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSColor/a"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSShape">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSShape/points"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSShape/closed"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSPoint">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSPoint/x"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSPoint/y"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSTransform">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTransform/m00"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTransform/m01"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTransform/m02"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTransform/m10"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTransform/m11"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTransform/m12"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTransform/m20"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTransform/m21"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTransform/m22"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSTemplateDescription">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSTemplateDescription/containerClass"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSTemplateDescription/theClass"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSTemplateDescription/containerStructuralFeature"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSTemplateDescription/scale"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSTemplateDescription/template"/>
+    </genClasses>
+    <genClasses ecoreClass="zcsml.ecore#//CSLayout"/>
+    <genClasses ecoreClass="zcsml.ecore#//CSConnectionEnd">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSConnectionEnd/node"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSConnectionEnd/connStructuralFeature"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference zcsml.ecore#//CSConnectionEnd/nodeStructuralFeature"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute zcsml.ecore#//CSConnectionEnd/tipType"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://disc.ucn.cl/ycsml" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore">
+  <CSRoot xmi:id="_8PEIAECNEeG5ucMSeBk4Ew">
+    <children xsi:type="CSNode" xmi:id="_8PF9MECNEeG5ucMSeBk4Ew" name="CSNode0" height="70.56745910644531" width="143.19166564941406" widthRatioToParent="1.0">
+      <children xsi:type="CSText" xmi:id="_CHIHkECOEeG5ucMSeBk4Ew" name="CSText0" height="16.126315591365152" width="87.95330321483732" text="${self.name}">
+        <foreground xmi:id="_CHIHkUCOEeG5ucMSeBk4Ew" a="1.0"/>
+        <background xmi:id="_CHIHkkCOEeG5ucMSeBk4Ew" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_CHIuoECOEeG5ucMSeBk4Ew" m00="1.0" m02="29.480041770507643" m11="1.0" m12="25.36654984080258"/>
+      </children>
+      <foreground xmi:id="_-2ncQECREeGIWOqe9HNZaA" a="1.0"/>
+      <background xmi:id="_-2ncQUCREeGIWOqe9HNZaA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <shape xmi:id="_BRWWIECOEeG5ucMSeBk4Ew" name="ellipse"/>
+      <transform xmi:id="_8PGkQkCNEeG5ucMSeBk4Ew" m00="1.0" m02="268.1201298006234" m11="1.0" m12="49.600622915797544"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_UyVpgECOEeG5ucMSeBk4Ew" name="CSNode1" layout="_Cj8poECSEeGIWOqe9HNZaA" widthRatioToParent="1.0">
+      <foreground xmi:id="_-1jsUUCREeGIWOqe9HNZaA" a="1.0"/>
+      <background xmi:id="_-1jsUkCREeGIWOqe9HNZaA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_UyVpg0COEeG5ucMSeBk4Ew" m00="1.0" m02="146.24850791832478" m11="1.0" m12="270.33815100053954"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_VdmNAECOEeG5ucMSeBk4Ew" name="CSNode2" layout="_Cj8poECSEeGIWOqe9HNZaA" widthRatioToParent="1.0">
+      <foreground xmi:id="_-1kTYECREeGIWOqe9HNZaA" a="1.0"/>
+      <background xmi:id="_-1k6cECREeGIWOqe9HNZaA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_VdmNA0COEeG5ucMSeBk4Ew" m00="1.0" m02="466.4004070669644" m11="1.0" m12="268.24437077222433"/>
+    </children>
+    <children xsi:type="CSConnection" xmi:id="_WPlDkECOEeG5ucMSeBk4Ew" name="CSConnection0">
+      <connectionEnds xmi:id="_WPlDkUCOEeG5ucMSeBk4Ew" node="_UyVpgECOEeG5ucMSeBk4Ew">
+        <connStructuralFeature xsi:type="ecore:EReference" href="../model/mindMap.ecore#//Association/src"/>
+      </connectionEnds>
+      <connectionEnds xmi:id="_WPlqoECOEeG5ucMSeBk4Ew" node="_VdmNAECOEeG5ucMSeBk4Ew">
+        <connStructuralFeature xsi:type="ecore:EReference" href="../model/mindMap.ecore#//Association/dst"/>
+      </connectionEnds>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_jmSJgECPEeGzBvwgWh2v1A" name="CSNode3" height="0.0" width="0.0" widthRatioToParent="1.0">
+      <foreground xmi:id="_KHgzoECQEeG0w6aEPxuV7w" a="1.0"/>
+      <background xmi:id="_KHgzoUCQEeG0w6aEPxuV7w" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <shape xmi:id="_6Rf9MECPEeGzBvwgWh2v1A" name="rectangle"/>
+      <transform xmi:id="_jmSwkUCPEeGzBvwgWh2v1A" m00="1.0" m02="334.8861149925067" m11="1.0" m12="208.91014697024687"/>
+    </children>
+    <children xsi:type="CSNode" xmi:id="_LDJ8gECQEeG0w6aEPxuV7w" name="CSNode4" height="34.778943010033366" width="101.12631559136516" widthRatioToParent="1.0">
+      <children xsi:type="CSText" xmi:id="_MFJlAECQEeG0w6aEPxuV7w" name="CSText2" height="15.0" width="82.64617098244467" text="${self.name}">
+        <foreground xmi:id="_MFJlAUCQEeG0w6aEPxuV7w" a="1.0"/>
+        <background xmi:id="_MFJlAkCQEeG0w6aEPxuV7w" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_MFKMEECQEeG0w6aEPxuV7w" m00="1.0" m02="19.147365053207594" m11="1.0" m12="7.884209139556078"/>
+      </children>
+      <foreground xmi:id="_B6e14ECSEeGIWOqe9HNZaA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <background xmi:id="_B6e14UCSEeGIWOqe9HNZaA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_LDKjkUCQEeG0w6aEPxuV7w" m00="1.0" m02="301.13043887919525" m11="1.0" m12="173.62580869766268"/>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_EBl24ECTEeGIWOqe9HNZaA" name="CSTemplateDescription0" height="21.655407194991607" width="259.5695594948621" template="_8PF9MECNEeG5ucMSeBk4Ew">
+      <foreground xmi:id="_FbHOkECTEeGIWOqe9HNZaA" a="1.0"/>
+      <background xmi:id="_FbLgAECTEeGIWOqe9HNZaA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_EBmd8UCTEeGIWOqe9HNZaA" m00="1.0" m02="623.5810417101849" m11="1.0" m12="59.83858481057329"/>
+      <containerClass href="../model/mindMap.ecore#//MindMap"/>
+      <theClass href="../model/mindMap.ecore#//RootIdea"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/mindMap.ecore#//MindMap/ideas"/>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_KLDvgECTEeGIWOqe9HNZaA" name="CSTemplateDescription1" height="18.506007994435105" width="227.0257677557784" template="_LDJ8gECQEeG0w6aEPxuV7w">
+      <foreground xmi:id="_LoQGQECTEeGIWOqe9HNZaA" a="1.0"/>
+      <background xmi:id="_LoTwoECTEeGIWOqe9HNZaA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_KLDvg0CTEeGIWOqe9HNZaA" m00="1.0" m02="630.9296398448165" m11="1.0" m12="167.96795736301272"/>
+      <containerClass href="../model/mindMap.ecore#//MindMap"/>
+      <theClass href="../model/mindMap.ecore#//Idea"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/mindMap.ecore#//MindMap/ideas"/>
+    </children>
+    <children xsi:type="CSTemplateDescription" xmi:id="_rjkzYECTEeGIWOqe9HNZaA" name="CSTemplateDescription2" height="19.555807727953944" width="342.5037384428497" template="_WPlDkECOEeG5ucMSeBk4Ew">
+      <foreground xmi:id="_s_2kIECTEeGIWOqe9HNZaA" a="1.0"/>
+      <background xmi:id="_s_61kECTEeGIWOqe9HNZaA" r="1.0" g="1.0" b="1.0" a="1.0"/>
+      <transform xmi:id="_rjkzY0CTEeGIWOqe9HNZaA" m00="1.0" m02="629.8798401112979" m11="1.0" m12="258.250734445632"/>
+      <containerClass href="../model/mindMap.ecore#//MindMap"/>
+      <theClass href="../model/mindMap.ecore#//Association"/>
+      <containerStructuralFeature xsi:type="ecore:EReference" href="../model/mindMap.ecore#//MindMap/associations"/>
+    </children>
+  </CSRoot>
+  <CSLayout xmi:id="_8PGkQ0CNEeG5ucMSeBk4Ew"/>
+  <CSLayout xmi:id="_QxxhoECPEeGTpObHFlLJnw"/>
+  <CSLayout xmi:id="_9oUIAECPEeGzBvwgWh2v1A"/>
+  <CSLayout xmi:id="_hICwAECQEeG0w6aEPxuV7w"/>
+  <CSLayout xmi:id="_Cj8poECSEeGIWOqe9HNZaA"/>
+</xmi:XMI>

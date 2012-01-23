@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="dfd"
+    nsURI="http://disc.ucn.cl/dfd">
+  <eClassifiers xsi:type="ecore:EClass" name="NamedElement">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Process" eSuperTypes="#//DFD #//Node"/>
+  <eClassifiers xsi:type="ecore:EClass" name="DataStore" eSuperTypes="#//NamedElement #//Node"/>
+  <eClassifiers xsi:type="ecore:EClass" name="ExternalEntity" eSuperTypes="#//NamedElement #//Node"/>
+  <eClassifiers xsi:type="ecore:EClass" name="DataFlow" eSuperTypes="#//NamedElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="nodes" upperBound="-1"
+        eType="#//Node" eOpposite="#//Node/dataFlows"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="DFD" eSuperTypes="#//NamedElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="childNodes" upperBound="-1"
+        eType="#//Node" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="childDataFlows" eType="#//DataFlow"
+        containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Node">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="dataFlows" upperBound="-1"
+        eType="#//DataFlow" eOpposite="#//DataFlow/nodes"/>
+  </eClassifiers>
+</ecore:EPackage>

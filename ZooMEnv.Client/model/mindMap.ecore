@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="mindMap">
+  <eClassifiers xsi:type="ecore:EClass" name="RootIdea" eSuperTypes="#//Idea">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Idea">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Association">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="src" eType="#//Idea"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="dst" eType="#//Idea"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="MindMap">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="ideas" eType="#//Idea"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="associations" eType="#//Association"/>
+  </eClassifiers>
+</ecore:EPackage>

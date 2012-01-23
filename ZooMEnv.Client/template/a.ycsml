@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ASCII"?>
+<YRoot xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="ycsml" xmi:id="_JFVKcIkHEd-JkfaxJStEUw">
+  <children xsi:type="YNode" xmi:id="_JFgwoIkHEd-JkfaxJStEUw" name="a0">
+    <children xsi:type="YNode" xmi:id="_OlWTMIoUEd-pA5Rut4Xo7Q" name="a32" x="4.263256414560601E-13" y="1.1368683772161603E-12">
+      <transform xmi:id="_OlW6QIoUEd-pA5Rut4Xo7Q" m00="0.1" m02="68.7" m11="0.1" m12="23.0"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_OnBuMIoUEd-pA5Rut4Xo7Q" name="a33" x="-1.4210854715202004E-12" y="4.973799150320701E-13">
+      <transform xmi:id="_OnCVQIoUEd-pA5Rut4Xo7Q" m00="0.1" m02="37.650000000000006" m11="0.1" m12="40.92672585833788"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_OotJMIoUEd-pA5Rut4Xo7Q" name="a34" connections="_P0ow0IoUEd-pA5Rut4Xo7Q" x="-1.2789769243681803E-12" y="-5.684341886080801E-13">
+      <transform xmi:id="_OotwQIoUEd-pA5Rut4Xo7Q" m00="0.1" m02="37.64999999999999" m11="0.1" m12="5.073274141662125"/>
+    </children>
+    <transform xmi:id="_JFgwoYkHEd-JkfaxJStEUw" m00="1.0" m02="950.0" m11="1.0" m12="500.0"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_JFgwookHEd-JkfaxJStEUw" name="a1">
+    <children xsi:type="YNode" xmi:id="_OVkrUIkjEd-JwJAWGdlUGw" name="a26" x="4.263256414560601E-13">
+      <transform xmi:id="_OVl5cIkjEd-JwJAWGdlUGw" m00="0.1" m02="68.7" m11="0.1" m12="23.0"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_OXJYoIkjEd-JwJAWGdlUGw" name="a27" x="8.526512829121202E-13" y="4.973799150320701E-13">
+      <transform xmi:id="_OXJ_sIkjEd-JwJAWGdlUGw" m00="0.1" m02="37.650000000000006" m11="0.1" m12="40.92672585833788"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_OY0zoIkjEd-JwJAWGdlUGw" name="a28" connections="_ST1QoIkjEd-D56YLZ7tkIQ" x="-1.4210854715202004E-13" y="-1.7053025658242404E-12">
+      <transform xmi:id="_OY1asIkjEd-JwJAWGdlUGw" m00="0.1" m02="37.64999999999999" m11="0.1" m12="5.073274141662125"/>
+    </children>
+    <transform xmi:id="_JFgwo4kHEd-JkfaxJStEUw" m00="1.0" m02="889.7114317029974" m11="1.0" m12="725.0"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_JFgwpIkHEd-JkfaxJStEUw" name="a2">
+    <children xsi:type="YNode" xmi:id="_me-jAIkdEd-cRPctuzoJDg" name="a21" connections="_ST1QoIkjEd-D56YLZ7tkIQ" x="4.263256414560601E-13">
+      <transform xmi:id="_me_KEIkdEd-cRPctuzoJDg" m00="0.1" m02="68.7" m11="0.1" m12="23.0"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_mgdwwIkdEd-cRPctuzoJDg" name="a22" connections="_nQs64IkdEd-cRPctuzoJDg" y="1.5631940186722204E-12">
+      <transform xmi:id="_mgeX0IkdEd-cRPctuzoJDg" m00="0.1" m02="48.0" m11="0.1" m12="43.7"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_miETQIkdEd-cRPctuzoJDg" name="a23" x="-4.618527782440651E-13" y="-3.552713678800501E-14">
+      <transform xmi:id="_miE6UIkdEd-cRPctuzoJDg" m00="0.1" m02="27.3" m11="0.1" m12="23.000000000000004"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_mj0mwIkdEd-cRPctuzoJDg" name="a24" connections="_nQs64IkdEd-cRPctuzoJDg" x="7.105427357601002E-14" y="6.750155989720952E-13">
+      <transform xmi:id="_mj1N0IkdEd-cRPctuzoJDg" m00="0.1" m02="47.99999999999999" m11="0.1" m12="2.3000000000000007"/>
+    </children>
+    <transform xmi:id="_JFgwpYkHEd-JkfaxJStEUw" m00="1.0" m02="725.0" m11="1.0" m12="889.7114317029973"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_JFgwpokHEd-JkfaxJStEUw" name="a3" connections="_JFhXuokHEd-JkfaxJStEUw">
+    <transform xmi:id="_JFgwp4kHEd-JkfaxJStEUw" m00="1.0" m02="500.0" m11="1.0" m12="950.0"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_JFgwqIkHEd-JkfaxJStEUw" name="a4">
+    <children xsi:type="YNode" xmi:id="_JFgwqYkHEd-JkfaxJStEUw" name="a5" x="4.263256414560601E-13">
+      <transform xmi:id="_JFgwqokHEd-JkfaxJStEUw" m00="0.1" m02="68.7" m11="0.1" m12="23.0"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_JFgwq4kHEd-JkfaxJStEUw" name="a6" x="-1.1368683772161603E-12" y="-7.105427357601002E-13">
+      <transform xmi:id="_JFgwrIkHEd-JkfaxJStEUw" m00="0.1" m02="48.0" m11="0.1" m12="43.7"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_JFgwrYkHEd-JkfaxJStEUw" name="a7" w="100.00000000000068" x="-4.618527782440651E-13" y="-3.552713678800501E-14">
+      <children xsi:type="YNode" xmi:id="_JFgwrokHEd-JkfaxJStEUw" name="a9" x="-1.0942358130705543E-11" y="8.242295734817162E-12">
+        <transform xmi:id="_JFgwr4kHEd-JkfaxJStEUw" m00="0.1" m02="68.69999999999953" m11="0.1" m12="22.999999999999822"/>
+      </children>
+      <children xsi:type="YNode" xmi:id="_JFgwsIkHEd-JkfaxJStEUw" name="a10" x="-3.268496584496461E-12" y="6.608047442568932E-12">
+        <transform xmi:id="_JFgwsYkHEd-JkfaxJStEUw" m00="0.1" m02="54.39665178356095" m11="0.1" m12="42.6868698873095"/>
+      </children>
+      <children xsi:type="YNode" xmi:id="_JFgwsokHEd-JkfaxJStEUw" name="a11" x="-1.4033219031261979E-11" y="3.126388037344441E-12">
+        <transform xmi:id="_JFgws4kHEd-JkfaxJStEUw" m00="0.1" m02="31.25334821643813" m11="0.1" m12="35.16715472245402"/>
+      </children>
+      <children xsi:type="YNode" xmi:id="_JFgwtIkHEd-JkfaxJStEUw" name="a12" h="50.000000000004306" x="-1.3997691894473974E-11" y="1.900701818158268E-12">
+        <children xsi:type="YNode" xmi:id="_JFgwtYkHEd-JkfaxJStEUw" name="a14" x="-1.0189182830799837E-10" y="3.240074875066057E-11">
+          <transform xmi:id="_JFgwtokHEd-JkfaxJStEUw" m00="0.1" m02="68.699999999986" m11="0.1" m12="23.00000000000048"/>
+        </children>
+        <children xsi:type="YNode" xmi:id="_JFgwt4kHEd-JkfaxJStEUw" name="a15" x="7.183587058534613E-11" y="-3.75877107217093E-11">
+          <transform xmi:id="_JFgwuIkHEd-JkfaxJStEUw" m00="0.1" m02="58.349999999986004" m11="0.1" m12="40.92672585833836"/>
+        </children>
+        <children xsi:type="YNode" xmi:id="_JFgwuYkHEd-JkfaxJStEUw" name="a16" connections="_JFhXuokHEd-JkfaxJStEUw" x="-3.552713678800501E-11" y="-3.75877107217093E-11">
+          <transform xmi:id="_JFgwuokHEd-JkfaxJStEUw" m00="0.1" m02="37.64999999998601" m11="0.1" m12="40.92672585833836"/>
+        </children>
+        <children xsi:type="YNode" xmi:id="_JFgwu4kHEd-JkfaxJStEUw" name="a17" x="-8.913758620110457E-11" y="3.2365221613872563E-11">
+          <transform xmi:id="_JFgwvIkHEd-JkfaxJStEUw" m00="0.1" m02="27.299999999986003" m11="0.1" m12="23.000000000000483"/>
+        </children>
+        <children xsi:type="YNode" xmi:id="_JFgwvYkHEd-JkfaxJStEUw" name="a18" x="-3.538502824085299E-11" y="-1.1368683772161603E-11">
+          <transform xmi:id="_JFhXsIkHEd-JkfaxJStEUw" m00="0.1" m02="37.649999999985994" m11="0.1" m12="5.073274141662605"/>
+        </children>
+        <children xsi:type="YNode" xmi:id="_JFhXsYkHEd-JkfaxJStEUw" name="a19" x="7.183587058534613E-11" y="-1.1333156635373598E-11">
+          <transform xmi:id="_JFhXsokHEd-JkfaxJStEUw" m00="0.1" m02="58.349999999986004" m11="0.1" m12="5.073274141662601"/>
+        </children>
+        <transform xmi:id="_JFhXs4kHEd-JkfaxJStEUw" m00="0.1" m02="31.253348216438127" m11="0.1" m12="10.832845277545632"/>
+      </children>
+      <children xsi:type="YNode" xmi:id="_JFhXtIkHEd-JkfaxJStEUw" name="a13" x="-3.268496584496461E-12" y="-1.4566126083082054E-12">
+        <transform xmi:id="_JFhXtYkHEd-JkfaxJStEUw" m00="0.1" m02="54.39665178356095" m11="0.1" m12="3.3131301126901427"/>
+      </children>
+      <transform xmi:id="_JFhXtokHEd-JkfaxJStEUw" m00="0.1" m02="27.3" m11="0.1" m12="23.000000000000004"/>
+    </children>
+    <children xsi:type="YNode" xmi:id="_JFhXt4kHEd-JkfaxJStEUw" name="a8" x="-1.0658141036401503E-12" y="6.750155989720952E-13">
+      <transform xmi:id="_JFhXuIkHEd-JkfaxJStEUw" m00="0.1" m02="47.99999999999999" m11="0.1" m12="2.3000000000000007"/>
+    </children>
+    <transform xmi:id="_JFhXuYkHEd-JkfaxJStEUw" m00="1.0" m02="275.0000000000001" m11="1.0" m12="889.7114317029974"/>
+  </children>
+  <children xsi:type="YConnection" xmi:id="_JFhXuokHEd-JkfaxJStEUw" name="a20" nodes="_JFgwuYkHEd-JkfaxJStEUw _JFgwpokHEd-JkfaxJStEUw"/>
+  <children xsi:type="YConnection" xmi:id="_nQs64IkdEd-cRPctuzoJDg" name="a25" nodes="_mj0mwIkdEd-cRPctuzoJDg _mgdwwIkdEd-cRPctuzoJDg"/>
+  <children xsi:type="YConnection" xmi:id="_ST1QoIkjEd-D56YLZ7tkIQ" name="a29" nodes="_OY0zoIkjEd-JwJAWGdlUGw _me-jAIkdEd-cRPctuzoJDg"/>
+  <children xsi:type="YNode" xmi:id="_NoQY0IoUEd-pA5Rut4Xo7Q" name="a30">
+    <transform xmi:id="_NoQY0YoUEd-pA5Rut4Xo7Q" m00="1.0" m02="110.2885682970026" m11="1.0" m12="725.0"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_NpnDsIoUEd-pA5Rut4Xo7Q" name="a31" connections="_P0ow0IoUEd-pA5Rut4Xo7Q">
+    <transform xmi:id="_NpnDsYoUEd-pA5Rut4Xo7Q" m00="1.0" m02="50.0" m11="1.0" m12="500.00000000000006"/>
+  </children>
+  <children xsi:type="YConnection" xmi:id="_P0ow0IoUEd-pA5Rut4Xo7Q" name="a35" nodes="_OotJMIoUEd-pA5Rut4Xo7Q _NpnDsIoUEd-pA5Rut4Xo7Q"/>
+  <children xsi:type="YNode" xmi:id="_ToV4QIqeEd-rtsremqDlRA" name="a36">
+    <transform xmi:id="_ToV4QYqeEd-rtsremqDlRA" m00="1.0" m02="110.28856829700254" m11="1.0" m12="275.0000000000001"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_Tp1tEIqeEd-rtsremqDlRA" name="a37">
+    <transform xmi:id="_Tp1tEYqeEd-rtsremqDlRA" m00="1.0" m02="274.9999999999998" m11="1.0" m12="110.28856829700266"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_IYNhwIukEd-Hoqda6XymrQ" name="a38">
+    <transform xmi:id="_IYNhwYukEd-Hoqda6XymrQ" m00="1.0" m02="499.99999999999994" m11="1.0" m12="50.0"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_IZrhYIukEd-Hoqda6XymrQ" name="a39">
+    <transform xmi:id="_IZrhYYukEd-Hoqda6XymrQ" m00="1.0" m02="725.0" m11="1.0" m12="110.28856829700266"/>
+  </children>
+  <children xsi:type="YNode" xmi:id="_IbI58IukEd-Hoqda6XymrQ" name="a40">
+    <transform xmi:id="_IbI58YukEd-Hoqda6XymrQ" m00="1.0" m02="889.7114317029973" m11="1.0" m12="274.9999999999998"/>
+  </children>
+</YRoot>

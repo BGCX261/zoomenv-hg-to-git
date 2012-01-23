@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://disc.ucn.cl/ycsml" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore">
+  <CSRoot xmi:id="_WACdsKgREd-RfMzj12qHPw">
+    <children xsi:type="CSNode" xmi:id="_WAVYoKgREd-RfMzj12qHPw" name="CSNode5" templateRoot="true" layout="_h9EQYKgREd-RfMzj12qHPw" height="468.9928894042969" width="491.1448974609375" widthRatioToParent="1.0">
+      <children xsi:type="CSNode" xmi:id="_WAVYoagREd-RfMzj12qHPw" name="CSNode6" layout="_h9EQYKgREd-RfMzj12qHPw" maxZoom="0.7" width="261.3669893240947">
+        <children xsi:type="CSText" xmi:id="_WAVYoqgREd-RfMzj12qHPw" name="CSText3" width="261.3669893240947" widthRatioToParent="1.0" text="&lt;div style=&quot;font-size:40pt;text-align:center;&quot;>p&lt;/div>">
+          <foreground xmi:id="_WAVYo6gREd-RfMzj12qHPw" a="1.0"/>
+          <background xmi:id="_WAVYpKgREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+          <transform xmi:id="_WAVYpagREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+          <object href="../repository/m.ecore#//p"/>
+        </children>
+        <foreground xmi:id="_WNJsoKgREd-RfMzj12qHPw" a="1.0"/>
+        <background xmi:id="_WNJsoagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_WAVYqKgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+        <object href="../repository/m.ecore#//p"/>
+      </children>
+      <children xsi:type="CSNode" xmi:id="_WAVYqagREd-RfMzj12qHPw" name="CSNode7" selectable="false" layout="_h9EQYKgREd-RfMzj12qHPw" height="468.9928894042969" width="491.1448974609375" widthRatioToParent="1.0">
+        <children xsi:type="CSNode" xmi:id="_WAVYqqgREd-RfMzj12qHPw" name="CSNode8" layout="_h9EQYKgREd-RfMzj12qHPw" minZoom="0.7" width="105.14819843544501">
+          <children xsi:type="CSText" xmi:id="_WAVYq6gREd-RfMzj12qHPw" name="CSText4" width="81.943359375" horizontalAlign="0.5" verticalAlign="0.5" text="p">
+            <foreground xmi:id="_WAVYrKgREd-RfMzj12qHPw" a="1.0"/>
+            <background xmi:id="_WAVYragREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+            <transform xmi:id="_WAVYrqgREd-RfMzj12qHPw" m00="1.0" m02="24.76053666781803" m11="1.0" m12="-3.552713678800501E-15"/>
+            <object href="../repository/m.ecore#//p"/>
+          </children>
+          <foreground xmi:id="_YOfSQKgREd-RfMzj12qHPw" a="1.0"/>
+          <background xmi:id="_YOfSQagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+          <shape xmi:id="_WAVYsagREd-RfMzj12qHPw" name="rectangle"/>
+          <transform xmi:id="_WAVYsqgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+          <object href="../repository/m.ecore#//p"/>
+        </children>
+        <children xsi:type="CSNode" xmi:id="_WAVYs6gREd-RfMzj12qHPw" name="CSNode9" height="418.9928894042969" width="491.1448974609375" widthRatioToParent="1.0">
+          <children xsi:type="CSNode" xmi:id="_WEp38KgREd-RfMzj12qHPw" name="CSNode0" templateRoot="true" layout="_h9EQYKgREd-RfMzj12qHPw" height="113.71242747540217" width="190.75069572281046" widthRatioToParent="1.0" minHeight="10.0">
+            <children xsi:type="CSText" xmi:id="_WEp38agREd-RfMzj12qHPw" name="CSText0" selectable="false" minZoom="0.9" height="16.662753536903345" width="190.75069572281046" verticalAlign="0.5" widthRatioToParent="1.0" minHeight="10.0" text="c">
+              <foreground xmi:id="_WEp38qgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_WEp386gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WEp39KgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+              <object href="../repository/m.ecore#//p/c"/>
+            </children>
+            <children xsi:type="CSNode" xmi:id="_WEp39agREd-RfMzj12qHPw" name="CSNode3" layout="_h9EQYKgREd-RfMzj12qHPw" minZoom="0.9" width="190.75069572281046" widthRatioToParent="1.0" minHeight="10.0">
+              <children xsi:type="CSText" xmi:id="_WGvioKgREd-RfMzj12qHPw" name="CSText2" templateRoot="true" width="81.943359375" text="attr">
+                <background xmi:id="_WGvioagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                <transform xmi:id="_WG5ToKgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+                <object href="../repository/m.ecore#//p/c/attr"/>
+              </children>
+              <foreground xmi:id="_e8ieoKgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_e8ieoagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WEp3-KgREd-RfMzj12qHPw" m00="1.0" m11="1.0" m12="16.662753536903345"/>
+              <object href="../repository/m.ecore#//p/c"/>
+              <displayedStructuralFeatures xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EClass/eStructuralFeatures"/>
+            </children>
+            <children xsi:type="CSNode" xmi:id="_WEp3-agREd-RfMzj12qHPw" name="CSNode4" selectable="false" layout="_h9EQYKgREd-RfMzj12qHPw" minZoom="0.9" height="58.43312821956729" width="190.75069572281046" widthRatioToParent="1.0" minHeight="10.0">
+              <foreground xmi:id="_e8ieoqgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_e8ieo6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WEp3_KgREd-RfMzj12qHPw" m00="1.0" m11="1.0" m12="55.27929925583488"/>
+              <object href="../repository/m.ecore#//p/c"/>
+            </children>
+            <children xsi:type="CSText" xmi:id="_WEp3_agREd-RfMzj12qHPw" name="CSText5" selectable="false" maxZoom="0.9" height="52.0" width="190.75069572281046" widthRatioToParent="1.0" text="&lt;div style=&quot;font-size:40pt;text-align:center;&quot;>c&lt;/div>">
+              <foreground xmi:id="_WEp3_qgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_WEp3_6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WEp4AKgREd-RfMzj12qHPw" m00="1.0" m11="1.0" m12="78.33047793094823"/>
+              <object href="../repository/m.ecore#//p/c"/>
+            </children>
+            <foreground xmi:id="_eJ4SpKgREd-RfMzj12qHPw" a="1.0"/>
+            <background xmi:id="_eJ4SpagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+            <transform xmi:id="_WFGj4KgREd-RfMzj12qHPw" m00="0.4" m02="40.08016032064129" m11="0.4" m12="70.14028056112224"/>
+            <object href="../repository/m.ecore#//p/c"/>
+          </children>
+          <children xsi:type="CSNode" xmi:id="_WIOwYKgREd-RfMzj12qHPw" name="CSNode0" templateRoot="true" layout="_h9EQYKgREd-RfMzj12qHPw" height="113.71242747540217" width="190.75069572281046" widthRatioToParent="1.0" minHeight="10.0">
+            <children xsi:type="CSText" xmi:id="_WIOwYagREd-RfMzj12qHPw" name="CSText0" selectable="false" minZoom="0.9" height="22.009569393975518" width="190.75069572281046" verticalAlign="0.5" widthRatioToParent="1.0" minHeight="10.0" text="c2">
+              <foreground xmi:id="_WIOwYqgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_WIOwY6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WIOwZKgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+              <object href="../repository/m.ecore#//p/c2"/>
+            </children>
+            <children xsi:type="CSNode" xmi:id="_WIOwZagREd-RfMzj12qHPw" name="CSNode3" layout="_h9EQYKgREd-RfMzj12qHPw" minZoom="0.9" height="13.755980871234698" width="190.75069572281046" widthRatioToParent="1.0" minHeight="10.0">
+              <foreground xmi:id="_eJ4SpqgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_eJ4Sp6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WIOwaKgREd-RfMzj12qHPw" m00="1.0" m11="1.0" m12="22.009569393975518"/>
+              <object href="../repository/m.ecore#//p/c2"/>
+              <displayedStructuralFeatures xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EClass/eStructuralFeatures"/>
+            </children>
+            <children xsi:type="CSNode" xmi:id="_WIOwaagREd-RfMzj12qHPw" name="CSNode4" selectable="false" layout="_h9EQYKgREd-RfMzj12qHPw" minZoom="0.9" height="77.94687721019196" width="190.75069572281046" widthRatioToParent="1.0" minHeight="10.0">
+              <foreground xmi:id="_eJ4SqKgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_eJ4SqagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WIOwbKgREd-RfMzj12qHPw" m00="1.0" m11="1.0" m12="35.765550265210216"/>
+              <object href="../repository/m.ecore#//p/c2"/>
+            </children>
+            <children xsi:type="CSText" xmi:id="_WIOwbagREd-RfMzj12qHPw" name="CSText5" selectable="false" maxZoom="0.9" height="52.0" width="190.75069572281046" widthRatioToParent="1.0" text="&lt;div style=&quot;font-size:40pt;text-align:center;&quot;>c2&lt;/div>">
+              <foreground xmi:id="_WIOwbqgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_WIOwb6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WIOwcKgREd-RfMzj12qHPw" m00="1.0" m11="1.0" m12="76.66399069599437"/>
+              <object href="../repository/m.ecore#//p/c2"/>
+            </children>
+            <foreground xmi:id="_eJ4SqqgREd-RfMzj12qHPw" a="1.0"/>
+            <background xmi:id="_eJ4Sq6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+            <transform xmi:id="_WIrcUKgREd-RfMzj12qHPw" m00="0.4" m02="42.08416833667336" m11="0.4" m12="202.40480961923836"/>
+            <object href="../repository/m.ecore#//p/c2"/>
+          </children>
+          <children xsi:type="CSNode" xmi:id="_WKBgIKgREd-RfMzj12qHPw" name="CSNode5" templateRoot="true" layout="_h9EQYKgREd-RfMzj12qHPw" height="468.9928894042969" width="491.1448974609375" widthRatioToParent="1.0">
+            <children xsi:type="CSNode" xmi:id="_WKBgIagREd-RfMzj12qHPw" name="CSNode6" layout="_h9EQYKgREd-RfMzj12qHPw" maxZoom="0.7" width="261.3669893240947">
+              <children xsi:type="CSText" xmi:id="_WKBgIqgREd-RfMzj12qHPw" name="CSText3" width="261.3669893240947" widthRatioToParent="1.0" text="&lt;div style=&quot;font-size:40pt;text-align:center;&quot;>p2&lt;/div>">
+                <foreground xmi:id="_WKBgI6gREd-RfMzj12qHPw" a="1.0"/>
+                <background xmi:id="_WKBgJKgREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                <transform xmi:id="_WKBgJagREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+                <object href="../repository/m.ecore#//p/p2"/>
+              </children>
+              <foreground xmi:id="_WNmYkKgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_WNmYkagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WKBgKKgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+              <object href="../repository/m.ecore#//p/p2"/>
+            </children>
+            <children xsi:type="CSNode" xmi:id="_WKKqEKgREd-RfMzj12qHPw" name="CSNode7" selectable="false" layout="_h9EQYKgREd-RfMzj12qHPw" height="468.9928894042969" width="491.1448974609375" widthRatioToParent="1.0">
+              <children xsi:type="CSNode" xmi:id="_WKKqEagREd-RfMzj12qHPw" name="CSNode8" layout="_h9EQYKgREd-RfMzj12qHPw" minZoom="0.7">
+                <children xsi:type="CSText" xmi:id="_WKKqEqgREd-RfMzj12qHPw" name="CSText4" width="81.943359375" horizontalAlign="0.5" verticalAlign="0.5" text="p2">
+                  <foreground xmi:id="_WKKqE6gREd-RfMzj12qHPw" a="1.0"/>
+                  <background xmi:id="_WKKqFKgREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                  <transform xmi:id="_WKKqFagREd-RfMzj12qHPw" m00="1.0" m02="9.0283203125" m11="1.0" m12="-1.7763568394002505E-14"/>
+                  <object href="../repository/m.ecore#//p/p2"/>
+                </children>
+                <foreground xmi:id="_ZKZg4KgREd-RfMzj12qHPw" a="1.0"/>
+                <background xmi:id="_ZKZg4agREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                <shape xmi:id="_WKKqGKgREd-RfMzj12qHPw" name="rectangle"/>
+                <transform xmi:id="_WKKqGagREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+                <object href="../repository/m.ecore#//p/p2"/>
+              </children>
+              <children xsi:type="CSNode" xmi:id="_WKKqGqgREd-RfMzj12qHPw" name="CSNode9" height="419.5012179098073" width="491.1448974609375" widthRatioToParent="1.0">
+                <children xsi:type="CSNode" xmi:id="_WLqe4KgREd-RfMzj12qHPw" name="CSNode5" templateRoot="true" layout="_h9EQYKgREd-RfMzj12qHPw" height="468.9928894042969" width="491.1448974609375" widthRatioToParent="1.0">
+                  <children xsi:type="CSNode" xmi:id="_WLqe4agREd-RfMzj12qHPw" name="CSNode6" layout="_h9EQYKgREd-RfMzj12qHPw" maxZoom="0.7" width="261.3669893240947">
+                    <children xsi:type="CSText" xmi:id="_WLqe4qgREd-RfMzj12qHPw" name="CSText3" width="261.3669893240947" widthRatioToParent="1.0" text="&lt;div style=&quot;font-size:40pt;text-align:center;&quot;>p3&lt;/div>">
+                      <foreground xmi:id="_WLqe46gREd-RfMzj12qHPw" a="1.0"/>
+                      <background xmi:id="_WLqe5KgREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                      <transform xmi:id="_WLqe5agREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+                      <object href="../repository/m.ecore#//p/p2/p3"/>
+                    </children>
+                    <foreground xmi:id="_WNmYlKgREd-RfMzj12qHPw" a="1.0"/>
+                    <background xmi:id="_WNmYlagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                    <transform xmi:id="_WLqe6KgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+                    <object href="../repository/m.ecore#//p/p2/p3"/>
+                  </children>
+                  <children xsi:type="CSNode" xmi:id="_WLqe6agREd-RfMzj12qHPw" name="CSNode7" selectable="false" layout="_h9EQYKgREd-RfMzj12qHPw" height="419.5012179098073" width="491.1448974609375" widthRatioToParent="1.0">
+                    <children xsi:type="CSNode" xmi:id="_WLqe6qgREd-RfMzj12qHPw" name="CSNode8" layout="_h9EQYKgREd-RfMzj12qHPw" minZoom="0.7">
+                      <children xsi:type="CSText" xmi:id="_WLqe66gREd-RfMzj12qHPw" name="CSText4" width="81.943359375" horizontalAlign="0.5" verticalAlign="0.5" text="p3">
+                        <foreground xmi:id="_WLqe7KgREd-RfMzj12qHPw" a="1.0"/>
+                        <background xmi:id="_WLqe7agREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                        <transform xmi:id="_WLqe7qgREd-RfMzj12qHPw" m00="1.0" m02="9.0283203125" m11="1.0" m12="-3.517186542012496E-13"/>
+                        <object href="../repository/m.ecore#//p/p2/p3"/>
+                      </children>
+                      <foreground xmi:id="_aI04AKgREd-RfMzj12qHPw" a="1.0"/>
+                      <background xmi:id="_aI04AagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                      <shape xmi:id="_WLqe8agREd-RfMzj12qHPw" name="rectangle"/>
+                      <transform xmi:id="_WLqe8qgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+                      <object href="../repository/m.ecore#//p/p2/p3"/>
+                    </children>
+                    <children xsi:type="CSNode" xmi:id="_WLqe86gREd-RfMzj12qHPw" name="CSNode9" height="419.5012179098073" width="491.1448974609375" widthRatioToParent="1.0">
+                      <foreground xmi:id="_aI-pAKgREd-RfMzj12qHPw" a="1.0"/>
+                      <background xmi:id="_aI-pAagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                      <shape xmi:id="_WLqe9qgREd-RfMzj12qHPw" name="none"/>
+                      <transform xmi:id="_WLqe96gREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+                      <object href="../repository/m.ecore#//p/p2/p3"/>
+                      <displayedStructuralFeatures xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EPackage/eSubpackages"/>
+                      <displayedStructuralFeatures xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EPackage/eClassifiers"/>
+                    </children>
+                    <foreground xmi:id="_aI-pAqgREd-RfMzj12qHPw" a="1.0"/>
+                    <background xmi:id="_aI-pA6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                    <transform xmi:id="_WLqe-qgREd-RfMzj12qHPw" m00="1.0" m11="1.0" m12="49.491671494489616"/>
+                    <object href="../repository/m.ecore#//p/p2/p3"/>
+                  </children>
+                  <foreground xmi:id="_Z6ObWKgREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0"/>
+                  <background xmi:id="_Z6ObWagREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0"/>
+                  <transform xmi:id="_WMGjwKgREd-RfMzj12qHPw" m00="0.4" m02="66.26051844289152" m11="0.4" m12="53.572334060210046"/>
+                  <object href="../repository/m.ecore#//p/p2/p3"/>
+                </children>
+                <foreground xmi:id="_dpPqwqgREd-RfMzj12qHPw" a="1.0"/>
+                <background xmi:id="_dpPqw6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+                <shape xmi:id="_WKKqHagREd-RfMzj12qHPw" name="none"/>
+                <transform xmi:id="_WKKqHqgREd-RfMzj12qHPw" m00="1.0" m11="1.0" m12="49.491671494489616"/>
+                <object href="../repository/m.ecore#//p/p2"/>
+                <displayedStructuralFeatures xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EPackage/eSubpackages"/>
+                <displayedStructuralFeatures xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EPackage/eClassifiers"/>
+              </children>
+              <foreground xmi:id="_dpF5wqgREd-RfMzj12qHPw" a="1.0"/>
+              <background xmi:id="_dpF5w6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+              <transform xmi:id="_WKKqIagREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+              <object href="../repository/m.ecore#//p/p2"/>
+            </children>
+            <foreground xmi:id="_fiiHoqgREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0"/>
+            <background xmi:id="_fiiHo6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0"/>
+            <transform xmi:id="_WKeMEKgREd-RfMzj12qHPw" m00="0.4" m02="164.04079228777715" m11="0.4" m12="66.39444903249812"/>
+            <object href="../repository/m.ecore#//p/p2"/>
+          </children>
+          <foreground xmi:id="_fOa41KgREd-RfMzj12qHPw" a="1.0"/>
+          <background xmi:id="_fOa41agREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+          <shape xmi:id="_WAVYtqgREd-RfMzj12qHPw" name="none"/>
+          <transform xmi:id="_WAVYt6gREd-RfMzj12qHPw" m00="1.0" m11="1.0" m12="50.0"/>
+          <object href="../repository/m.ecore#//p"/>
+          <displayedStructuralFeatures xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EPackage/eSubpackages"/>
+          <displayedStructuralFeatures xsi:type="ecore:EReference" href="http://www.eclipse.org/emf/2002/Ecore#//EPackage/eClassifiers"/>
+        </children>
+        <foreground xmi:id="_cnX-EqgREd-RfMzj12qHPw" a="1.0"/>
+        <background xmi:id="_cnX-E6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0" a="1.0"/>
+        <transform xmi:id="_WAVYuqgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+        <object href="../repository/m.ecore#//p"/>
+      </children>
+      <foreground xmi:id="_cnhvEqgREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0"/>
+      <background xmi:id="_cnhvE6gREd-RfMzj12qHPw" r="1.0" g="1.0" b="1.0"/>
+      <transform xmi:id="_WBX6cKgREd-RfMzj12qHPw" m00="1.0" m11="1.0"/>
+      <object href="../repository/m.ecore#//p"/>
+    </children>
+  </CSRoot>
+  <CSLayout xmi:id="_h9EQYKgREd-RfMzj12qHPw"/>
+</xmi:XMI>
