@@ -6,9 +6,9 @@ import library.Library;
 import library.LibraryFactory;
  
 import org.eclipse.emf.cdo.eresource.CDOResource;
+import org.eclipse.emf.cdo.net4j.CDONet4jSession;
+import org.eclipse.emf.cdo.net4j.CDONet4jSessionConfiguration;
 import org.eclipse.emf.cdo.net4j.CDONet4jUtil;
-import org.eclipse.emf.cdo.net4j.CDOSession;
-import org.eclipse.emf.cdo.net4j.CDOSessionConfiguration;
 import org.eclipse.emf.cdo.transaction.CDOTransaction;
 import org.eclipse.emf.cdo.util.CommitException;
 import org.eclipse.net4j.Net4jUtil;
@@ -22,7 +22,7 @@ import org.junit.Test;
  
 public class TestCdoClient {
  
-    private static CDOSession cdoSession;
+    private static CDONet4jSession cdoSession;
  
     @BeforeClass
     public static void init() {
@@ -80,19 +80,18 @@ public class TestCdoClient {
         }
     }
  
-    public static CDOSession openSession(String repoName) {
+    public static CDONet4jSession openSession(String repoName) {
         final IConnector connector = (IConnector) IPluginContainer.INSTANCE
                 .getElement( //
                         "org.eclipse.net4j.connectors", // Product group
                         "tcp", // Type
                         "localhost"); // Description
  
-        CDOSessionConfiguration config = CDONet4jUtil
-                .createSessionConfiguration();
+        CDONet4jSessionConfiguration  config = CDONet4jUtil.createNet4jSessionConfiguration();
         config.setConnector(connector);
         config.setRepositoryName(repoName);
  
-        CDOSession session = config.openSession();
+        CDONet4jSession session = config.openNet4jSession();
  
         session.addListener(new LifecycleEventAdapter() {
             @Override
