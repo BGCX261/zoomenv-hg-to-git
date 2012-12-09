@@ -46,7 +46,7 @@ public class TestCdoClient {
             library.getListBook().add(book);
  
             Author author = LibraryFactory.eINSTANCE.createAuthor();
-            author.setName("Ed");
+            author.setName("Eddy");
             author.setSurname("Merks");
             library.getListAuthor().add(author);
             book.getAuthor().add(author);
