@@ -14,7 +14,9 @@ import org.eclipse.emf.cdo.net4j.CDONet4jSession;
 import org.eclipse.emf.cdo.view.CDOView;
 import org.eclipse.emf.cdo.eresource.CDOResource;
 import org.eclipse.emf.common.util.EList;
+import org.eclipse.emf.common.util.TreeIterator;
 import org.eclipse.emf.ecore.EObject;
+import org.eclipse.emf.ecore.EStructuralFeature;
 
 import java.io.IOException;
 import org.eclipse.swt.layout.GridLayout;
@@ -77,19 +79,68 @@ public class ListModelViewPart extends ViewPart {
             EList<EObject> modelos = resource.getContents();
             repositorio = resource.getName();
             txtRepositorio.setText(repositorio);
-            int cont = 0;
+            int cont3 = 0;
             for(EObject a: modelos){
-            	cont++;
-            	String m = a.eClass().getName();
+            	String o = a.eClass().getName();
             	
-            	Label lblModelo = new Label(composite, SWT.NONE);
-        		lblModelo.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
-        		lblModelo.setText("Modelo "+cont);
+            	Label lblModelo3 = new Label(composite, SWT.NONE);
+        		lblModelo3.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
+        		
+        		lblModelo3.setText("Modelo "+cont3);
         		
         		txtModelo = new Text(composite, SWT.BORDER);
-        		txtModelo.setText(m);
+        		txtModelo.setText(o);
         		txtModelo.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
-            }
+        		cont3++;
+            	
+            	//String m = a.eClass().getEStructuralFeatures().get(2).getName();
+            	//String m = a.eClass().getEStructuralFeature(2).getName();
+            	EList<EObject> clases = a.eContents();
+            	int cont2 = 0;
+            	for(EObject b: clases){
+            		EList<EStructuralFeature> cosas = b.eClass().getEAllStructuralFeatures();
+            		String n = b.eClass().getName();
+            		Label lblModelo2 = new Label(composite, SWT.NONE);
+            		lblModelo2.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
+            		
+            		lblModelo2.setText("Clase "+cont2);
+            		
+            		txtModelo = new Text(composite, SWT.BORDER);
+            		txtModelo.setText(n);
+            		txtModelo.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
+            		cont2++;
+            		
+            		//String m = b.eClass().getEStructuralFeature(2).getName();
+            		int cont = 0;
+            		for(EStructuralFeature c: cosas){
+            			String m = c.getName();
+            			
+            			Label lblModelo = new Label(composite, SWT.NONE);
+                		lblModelo.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
+                		
+                		lblModelo.setText("Atributo "+cont);
+                		
+                		txtModelo = new Text(composite, SWT.BORDER);
+                		txtModelo.setText(m);
+                		txtModelo.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
+                		cont++;
+            		}
+            		
+            		
+            	}
+            	
+            	
+            	/*Arbol de contenidos
+            	TreeIterator<EObject> clases = a.eAllContents();
+            	clases.next(); //autor
+            	//clases.next(); //autor
+            	//clases.next(); //autor
+            	//clases.next(); //libro
+            	//clases.next(); //error
+            	String m = clases.next().eClass().getName();
+            	*/
+            	
+            	}
             
             
             

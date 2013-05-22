@@ -43,35 +43,15 @@ public class TestCdoClient {
             
  
             Book book = LibraryFactory.eINSTANCE.createBook();
-            book.setTitle("Eclipse Modeling Framework (2nd edition)");
+            book.setTitle("Game of Thrones");
             library.getListBook().add(book);
  
             Author author = LibraryFactory.eINSTANCE.createAuthor();
-            author.setName("Ed");
-            author.setSurname("Merks");
+            author.setName("George R. R.");
+            author.setSurname("Martin");
             library.getListAuthor().add(author);
             book.getAuthor().add(author);
- 
-            author = LibraryFactory.eINSTANCE.createAuthor();
-            author.setName("Marcelo");
-            author.setSurname("Paternostro");
-            library.getListAuthor().add(author);
-            book.getAuthor().add(author);
- 
-            author = LibraryFactory.eINSTANCE.createAuthor();
-            author.setName("Frank");
-            author.setSurname("Budinsky");
-            library.getListAuthor().add(author);
-            book.getAuthor().add(author);
- 
-            author = LibraryFactory.eINSTANCE.createAuthor();
-            author.setName("David");
-            author.setSurname("Steinberg");
-            library.getListAuthor().add(author);
-            book.getAuthor().add(author);
- 
- 
- 
+
             resource.getContents().add(library);
             transaction.commit();
             cdoSession.close();
