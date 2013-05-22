@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdoServer>
+ 
+    <acceptor type="tcp" listenAddr="0.0.0.0" port="2036">
+    </acceptor>
+ 
+    <repository name="mem">
+ 
+        <store type="db">
+            <mappingStrategy type="horizontal"/>
+            <dbAdapter name="mysql"/>
+            <dataSource
+                class="com.mysql.jdbc.jdbc2.optional.MysqlDataSource"
+                url="jdbc:mysql://localhost/cdotest2?createDatabaseIfNotExist=true"
+                user="root"
+                password=""
+                />
+        </store>
+    </repository>
+ 
+</cdoServer>
